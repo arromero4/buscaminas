@@ -6,7 +6,7 @@
 
 ## Descripción
 
-✨**/** ✨
+✨**[/](https://buscaminas-romero.netlify.app/)** ✨
 
 Buscaminas realizado con los fundamentos de la web HTML, CSS y Javascript.
 
