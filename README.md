@@ -2,7 +2,7 @@
 
 <!-- Coloca una imagen representativa de tu desarrollo siempre que puedas -->
 
-![Buscaminas](public/projects/project-portfolio-arromero.jpg)
+![Buscaminas](https://github.com/arromero4/buscaminas/blob/main/buscaminas-portada.JPG?raw=true)
 
 ## Descripción
 
